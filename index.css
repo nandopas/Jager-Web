@@ -276,6 +276,8 @@ footer a {
         justify-content: center;
         align-items: center;
         position: relative;
+        top: 0%;
+        left: 0%;
         background: linear-gradient(356deg, rgba(255,255,255,1) 24%, rgba(151,244,198,1) 62%);
         z-index: 7;
         padding: 15px;
