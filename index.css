@@ -23,13 +23,6 @@ nav {
     padding-top: 5px;
 }
 
-#logo-image {
-    height: 10vh;
-    margin-right: 10px;
-    border-radius: 20px;
-    box-shadow: 0px 1px 5px -3px rgba(0,0,0,1);
-}
-
 .logo {
     display: flex;
     align-items: center;
@@ -38,6 +31,13 @@ nav {
     border-color: white;
     border-width: 2px;
     padding: 10px;
+}
+
+.logo-image {
+    height: 10vh;
+    margin-right: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 1px 5px -3px rgba(0,0,0,1);
 }
 
 .logo-text {
@@ -145,7 +145,7 @@ nav {
     width: 100%;
 }
 
-img.screenshot {
+.screenshot {
     height: auto;
     width: 20vw;
     border-radius: 5px;
@@ -215,7 +215,7 @@ footer a {
         overflow-x: hidden;
     }
     
-    img.screenshot {
+    .screenshot {
         height: 70vh;
         width: auto;
     }
@@ -296,7 +296,7 @@ footer a {
         padding: 10px;
     }
 
-    img.screenshot {
+    .screenshot {
         height: auto;
         width: 40vw;
     }
