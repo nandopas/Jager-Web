@@ -127,7 +127,7 @@ nav {
     position: relative;
 }
 
-.howto {
+.flex-container-title {
     width: 80%;
     display: flex;
     justify-content: center;
